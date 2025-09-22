@@ -1,9 +1,10 @@
 # Enhancement Session - UCL Sustainability Video
 
 ## Quick Start
-1. Open `index.html` in a web browser (Chrome or Firefox recommended)
-2. Ensure internet connection for YouTube video streaming
-3. Test audio/video setup before the session
+1. **Online Version**: https://sunt05.github.io/ucl-sustainability-induction/
+2. **Local Version**: Open `index.html` in a web browser (Chrome or Firefox recommended)
+3. Ensure internet connection for YouTube video streaming
+4. Test audio/video setup before the session
 
 ## Session Details
 - **Date**: Thursday, 25 September 2025
